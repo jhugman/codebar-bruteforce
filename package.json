@@ -1,0 +1,11 @@
+{
+  "name": "caesar",
+  "version": "1.0.0",
+  "description": "Making and breaking substitution ciphered messages",
+  "main": "lib/encrypt.js",
+  "scripts": {
+    "test": "tap test/test-*.js"
+  },
+  "author": "Syd, James",
+  "license": "ISC"
+}
